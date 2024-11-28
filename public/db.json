@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Biquini Branco",
+      "image": "/images/products/product-4.png",
+      "rating": 4,
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "Biquini de Onça",
+      "image": "/images/products/product-5.png",
+      "rating": 5,
+      "price": 250
+    },
+    {
+      "id": 3,
+      "name": "Biquini Amarelo",
+      "image": "/images/products/product-6.png",
+      "rating": 5,
+      "price": 400
+    },
+    {
+      "id": 4,
+      "name": "Biquini com Flores Verdes",
+      "image": "/images/products/product-7.png",
+      "rating": 3,
+      "price": 17500
+    },
+    {
+      "id": 5,
+      "name": "Biquini VerdeEscuro",
+      "image": "/images/products/product-8.png",
+      "rating": 5,
+      "price": 115
+    },
+    {
+      "id": 6,
+      "name": "Bquini Azul com Cores",
+      "image": "/images/products/product-9.png",
+      "rating": 5,
+      "price": 110
+    },
+    {
+      "id": 7,
+      "name": "Biquini Preto Cintura Alta",
+      "image": "/images/products/product-10.png",
+      "rating": 4,
+      "price": 650
+    },
+    {
+      "id": 8,
+      "name": "Biquini Azul Celeste",
+      "image": "/images/products/product-11.png",
+      "rating": 4,
+      "price": 80
+    },
+    {
+      "id": 9,
+      "name": "Biquini Plus Cintura alta Colorido",
+      "image": "/images/products/product-12.png",
+      "rating": 5,
+      "price": 45000
+    },
+    {
+      "id": 10,
+      "name": "Maiô Preto Chique",
+      "image": "/images/products/product-13.png",
+      "rating": 5,
+      "price": 140
+    },
+    {
+      "id": 11,
+      "name": "Biquini Vermelho",
+      "image": "/images/products/product-14.png",
+      "rating": 5,
+      "price": 540
+    },
+    {
+      "id": 12,
+      "name": "Biquini Chocolate",
+      "image": "/images/products/product-15.png",
+      "rating": 5,
+      "price": 450
+    }
+  ]
+}

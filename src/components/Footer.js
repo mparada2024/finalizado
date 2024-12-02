@@ -34,7 +34,7 @@ export default function Footer() {
               <Link to="/">Blog posts</Link>
             </li>
             <li>
-              <Link to="/">Políticas</Link>
+              <Link to="/">Políticas e Regras de Compras</Link>
             </li>
             <li>
               <Link to="/">Torne-se afiliado</Link>
